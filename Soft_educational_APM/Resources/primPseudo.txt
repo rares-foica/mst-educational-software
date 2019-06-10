@@ -1,0 +1,5 @@
+﻿-> se consideră un nod de start care se marchează ca vizitat (celelalte noduri, inițial, sunt nevizitate)
+-> se repetă de n-1 ori pașii :
+	-> se consideră nodul nevizitat (NVmin) aflat la distanță minimă față de un nod deja vizitat (Vmin)
+	-> muchia NVmin-Vmin se adaugă la arbore
+	-> NVmin se consideră vizitat

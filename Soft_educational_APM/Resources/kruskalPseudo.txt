@@ -1,0 +1,9 @@
+﻿-> sortează muchiile în ordine crescătoare a costurilor
+-> include inițial fiecare nod într-o mulțime diferită
+-> PânăCând nu avem n-1 muchii in APCM
+	-> extrage muchia de cost minim
+	-> Dacă (extremitățile muchiei extrase fac parte din mulțimi diferite) atunci
+		-> muchia se adaugă în APCM
+		-> și extremitățile se reunesc în aceeași mulțime
+	=> Sfârșit Dacă <=
+=> Sfârșit PânăCând <=
